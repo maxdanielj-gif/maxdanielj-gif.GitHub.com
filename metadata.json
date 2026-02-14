@@ -1,0 +1,8 @@
+{
+  "name": "AI Companion",
+  "description": "A sophisticated and deeply personal AI Companion, designed to offer a dynamic and evolving conversational experience. It allows you to meticulously craft both the AI's persona and your relationship with it, creating a private, persistent, and multi-modal companion that lives in your browser.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
